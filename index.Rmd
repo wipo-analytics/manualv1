@@ -10,6 +10,8 @@ description: "A practical introduction to free and open source tools for patent 
 ---
 # Frontmatter {-}
 
+This is the First Edition. If you would like to visit the updated Second Edition please visit this [link](https://wipo-analytics.github.io/manual). 
+
 ## Authorship
 
 The Manual was written by Dr. Paul Oldham from [One World Analytics](http://oneworldanalytics.com/), with contributions from and under the coordination of Ms. Irene Kitsara ([WIPO](http://www.wipo.int/portal/en/index.html)).
